@@ -1,1 +1,2 @@
 This is the txt file for Activity GitHub
+I updated this text with my name in it
